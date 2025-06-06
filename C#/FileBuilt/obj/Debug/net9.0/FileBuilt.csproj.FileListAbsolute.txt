@@ -1,0 +1,15 @@
+D:\REPO\C-related\c#\FileBuilt\bin\Debug\net9.0\FileBuilt.exe
+D:\REPO\C-related\c#\FileBuilt\bin\Debug\net9.0\FileBuilt.deps.json
+D:\REPO\C-related\c#\FileBuilt\bin\Debug\net9.0\FileBuilt.runtimeconfig.json
+D:\REPO\C-related\c#\FileBuilt\bin\Debug\net9.0\FileBuilt.dll
+D:\REPO\C-related\c#\FileBuilt\bin\Debug\net9.0\FileBuilt.pdb
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.AssemblyInfoInputs.cache
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.AssemblyInfo.cs
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.csproj.CoreCompileInputs.cache
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.sourcelink.json
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.dll
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\refint\FileBuilt.dll
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.pdb
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\FileBuilt.genruntimeconfig.cache
+D:\REPO\C-related\c#\FileBuilt\obj\Debug\net9.0\ref\FileBuilt.dll
