@@ -46,5 +46,27 @@ class Program
         {
             Console.WriteLine("Invalid input. Please enter a valid number.");
         }
+        // calculator 
+        Console.WriteLine("Enter two numbers for addition:");
+        Console.Write("Enter first number: ");
+        string firstInput = Console.ReadLine();
+        Console.Write("Enter second number: ");
+        string secondInput = Console.ReadLine();
+        
+        if (firstInput == null || secondInput == null)
+        {
+            Console.WriteLine("No input provided.");
+            return;
+        }
+        if (double.TryParse(firstInput, out double firstNumber) && double.TryParse(secondInput, out double secondNumber))
+        {
+            double sum = firstNumber + secondNumber;
+            Console.WriteLine($"The sum of {firstNumber} and {secondNumber} is {sum}.");
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter valid numbers.");
+        }
+
     }
 }
