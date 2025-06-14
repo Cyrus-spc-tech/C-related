@@ -40,7 +40,7 @@ class Program
             else
             {
                 Console.WriteLine("You are a senior citizen.");
-            }
+            }cg
         }
         else
         {
@@ -52,7 +52,6 @@ class Program
         string firstInput = Console.ReadLine();
         Console.Write("Enter second number: ");
         string secondInput = Console.ReadLine();
-        
         if (firstInput == null || secondInput == null)
         {
             Console.WriteLine("No input provided.");

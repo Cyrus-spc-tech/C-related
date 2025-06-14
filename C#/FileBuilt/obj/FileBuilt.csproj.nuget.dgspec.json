@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REPO\\C-related\\c#\\FileBuilt\\FileBuilt.csproj": {}
+    "D:\\REPO\\C-related\\C#\\FileBuilt\\FileBuilt.csproj": {}
   },
   "projects": {
-    "D:\\REPO\\C-related\\c#\\FileBuilt\\FileBuilt.csproj": {
+    "D:\\REPO\\C-related\\C#\\FileBuilt\\FileBuilt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REPO\\C-related\\c#\\FileBuilt\\FileBuilt.csproj",
+        "projectUniqueName": "D:\\REPO\\C-related\\C#\\FileBuilt\\FileBuilt.csproj",
         "projectName": "FileBuilt",
-        "projectPath": "D:\\REPO\\C-related\\c#\\FileBuilt\\FileBuilt.csproj",
+        "projectPath": "D:\\REPO\\C-related\\C#\\FileBuilt\\FileBuilt.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\REPO\\C-related\\c#\\FileBuilt\\obj\\",
+        "outputPath": "D:\\REPO\\C-related\\C#\\FileBuilt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
